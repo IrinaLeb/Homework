@@ -4,6 +4,8 @@
 
 _Заголовок 1_
 
+*Заголовок 2*
+
 ***Синтексис (справочник) языка Markdown:***
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
