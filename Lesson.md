@@ -2,7 +2,9 @@
 
 # Инструкция для работы с Git и удалёнными репозиториями
 
-_Заголовок 10_
+_Заголовок 11_
+
+*Заголовок 12*
 
 ***Синтексис (справочник) языка Markdown:***
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
